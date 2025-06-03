@@ -1,4 +1,4 @@
-# staking-guides
+# Staking guides
 Staking guides for Ethereum and Gnosis stakers
 
 ## Chain-based guides
