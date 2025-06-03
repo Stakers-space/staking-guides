@@ -20,8 +20,6 @@ Staking guides for Ethereum and Gnosis stakers
     - Setting validator client
       - [Solo Staking](https://stakers.space/gnosis-staking/full-guide/solo)
       - [StakeWise Staking](https://stakers.space/gnosis-staking/full-guide/stakewise)
-      - [Rocketpool Staking](https://stakers.space/gnosis-staking/full-guide/rocketpool)
-      - [Lido Staking](https://stakers.space/gnosis-staking/full-guide/lido)
     - [Fund validators](https://stakers.space/gnosis-staking/keystores#deposit)
     - [Node Maintenance](https://stakers.space/gnosis-staking/maintenance)
     - [Emergency guide](https://stakers.space/gnosis-staking/emergency)
